@@ -1,4 +1,4 @@
-module dot2mermaidjs
+module github.com/Almaju/dot2mermaid
 
 go 1.21.6
 
